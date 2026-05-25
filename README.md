@@ -35,7 +35,3 @@ python generate.py   # 生成图片
 - **两条路线**：`code/` 动手实现，`theory/` 理论深入
 - **从零开始**：从 MLP GAN 开始
 
-## 相关资源
-
-- [PLAN.md](./PLAN.md) — 完整学习路线与论文清单
-- [model_comparison.md](./model_comparison.md) — 5 个模型的对比分析报告
