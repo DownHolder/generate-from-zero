@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.DS_Store
+*.pt
+*.pth
+checkpoints/
+samples/
+*.png
+data/
+backup/
+.claude/
+.trae/
